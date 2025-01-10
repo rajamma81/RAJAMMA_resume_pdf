@@ -1,101 +1,44 @@
-# RAJAMMA_resume_pdf
-
-                                                         RAJAMMA
-
-CONTACT
-
-Bengaluru, Karnataka, India 560083
-Mobile: +919353698992
-rajammaj05@gmail.com
-
-LINKS
-
-https://www.linkedin.com
-/in/rajamma-569517331
-https://github.com/rajamma81
-
-LANGUAGES
-
-English, Telugu, Kannada, Hindi
-
-EDUCATION
-
-Expected in April 2025
-B. E(CSE): Computer Science And
-Engineering - 8.8 CGPA
-T John Institute of Technology,
-Gottigere, Bannerghatta Road,
-Bohra Layout, Gottigere,
-Basavanapura, Bengaluru,
-Doddakammanahalli, Karnataka
-560083
-
-January 2021
-PUC - 82%
-Jawahar Navodaya Vidyalaya,
-Village Chikkajogihalli, Kudligi
-Taluk, District Bellary, Karnataka,
-PIN - 583126
-
-August 2019
-SSLC - 86%
-Government High School, ,
-Kakkabevenahalli,Bellary District
-And Taluk,583103
+RAJAMMA
+Email: rajammaj05@gmail.com | Phone: +91-9353698992
+LinkedIn: linkedin.com/in/rajamma-779aa2255 | GitHub: github.com/rajamma81
+Location: Bengaluru, Karnataka, India 560083
 
 PROFESSIONAL SUMMARY
+Motivated and detail-oriented Computer Science Engineering student with strong technical and interpersonal skills. Proficient in fullstack web development, database management, and software development. Aspires to excel in software engineering by contributing
+innovative solutions and leveraging academic knowledge and certifications.
 
-Seeking a challenging and growth oriented position in the organization.
-Where I would be utilizing my knowledge, interpersonal skills to achieve
-excellence and contribute my services to the organization. I want to
-become a full stack web developer.
+EDUCATION
+B.E. in Computer Science and Engineering | T John Institute of Technology, Bengaluru | CGPA: 8.8 | Expected Graduation: April 2025
+Pre-University Course (PUC) | Jawahar Navodaya Vidyalaya, Bellary | Percentage: 82% | January 2021
+Secondary School Leaving Certificate (SSLC) | Government High School, Bellary District | Percentage: 86% | August 2019
 
-WORK HISTORY
+TECHNICAL SKILLS
+• Programming Languages: Java, Python, JavaScript
+• Web Development: HTML, CSS, Bootstrap, Tailwind CSS, React.js, Node.js
+• Database Management: MySQL, SQL, MongoDB
+• Tools: MS Excel, MS PowerPoint, MS Office Suite
+• Other Skills: Data Analytics, Data Structures & Algorithms
 
-October 2023 - November 2023
-Developer, TechCiti Software Consulting Private Limited,
-Bengaluru, India
-A customers to browse and purchase a wide variety of jewellerys, such as
-rings, necklaces, bracelets, and earrings. The website features
-high-quality images, detailed product descriptions.
-Project Name: E Commerce Jewels Website
+PROJECTS
+E-Commerce Jewellery Website | TechCiti Software Consulting Pvt. Ltd.
+• Developed a user-friendly platform for customers to browse and purchase jewelry.
+• Integrated features like high-quality images, detailed product descriptions, and a secure shopping cart.
+• Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, MongoDB.
 
-SKILLS
-
-MS PowerPoin
-t, MS Excel
-HTML, CSS, JavaScript,
-Bootstrap, React js ,node
-js,Tailwind Css
-Java, Python
-MySQL, SQL,Mongo DB
-Data analytics
+INTERNSHIP EXPERIENCE
+Developer Intern | TechCiti Software Consulting Pvt. Ltd., Bengaluru | October 2023 - November 2023
+• Contributed to building an e-commerce platform, enhancing its functionality and design for seamless customer experience.
+• Gained hands-on experience in full-stack web development and database integration.
 
 CERTIFICATIONS
+• Java Full Stack Web Development
+• Data Structures & Algorithms in Java
+• Hackathon on Smart Solutions for Multidisciplinary Challenges
 
-Java Full stack Web Development
-Hackathon on Smart Solutions for Multidisciplinary Challenges
-Data Structure & Algorithms in Java,HTML/CSS
-MS Office Advanced Efficiency Training
-Python Programming basics
+LANGUAGES
+English: Fluent | Telugu | Kannada | Hindi: Conversational
+Declaration
+I hereby declare that the information provided above is true and correct to the best of my knowledge and belief. I take full responsibility
+for the accuracy of the details mentioned.
 
-INTERNSHIP
-
-TechCiti Software Consulting Private Limited, E Commerce Jewels
-Website, 2023
-
-PERSONAL INFORMATION
-
-Father's Name: Nettagantayya k
-Mother's Name: Radhamma
-Date of Birth: 08/02/2003
-Nationality: Indian
-
-DISCLAIMER
-
-I hereby declare that all the details furnished above are to the best of my
-knowledge & belie
-
-
-THANK YOU 
-RAJAMMA
+![Screenshot 2025-01-10 211318](https://github.com/user-attachments/assets/ae9df568-cc58-40aa-9035-eeab378e10b5)
